@@ -6,9 +6,10 @@ Dataset contains details of **56 schools** with fees, distance, board, ME evalua
 
 ## Files
 - **schema.sql** → SQL schema for table creation
+- **load_data.sql** → SQL commands to load the CSV dataset into the database tables.
 - **analysis.sql** → Core analysis queries
-- **load_data.sql** → Guide to import CSV into MySQL
 - **PW_NSAT_2024_whitefield.csv** → Original dataset
+- **README.md** → Project overview, instructions, and usage guide.
 
 ## Key Insights
 - Conversion percentage per school
