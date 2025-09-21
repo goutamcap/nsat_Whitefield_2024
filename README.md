@@ -25,7 +25,7 @@ Dataset contains details of **56 schools** with fees, distance, board, ME evalua
 
 ## Usage
 1. Run `schema.sql` in MySQL to create the database and table.
-2. Import CSV using instructions in `data_import_instructions.md`.
+2. Import CSV `load_data.sql`.
 3. Run queries from `analysis.sql` to generate insights.
 
 ---
