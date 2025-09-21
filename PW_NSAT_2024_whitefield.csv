@@ -1,0 +1,58 @@
+﻿Sheet1_Sl_No_,Sheet1_School_Name_,Sheet1_Distance,Sheet1_Fees,Sheet1_Category,Sheet1_Board,Sheet1_NSAT_DATE,Sheet1_ME_Name,Sheet1_QP_Set,Sheet1_6th,Sheet1_7th,Sheet1_8th,Sheet1_9th,Sheet1_10th,Sheet1_11th_J_,Sheet1_11th_N_,Sheet1_12_N_,Sheet1_12th_J_,Sheet1_Total,Sheet1_OMR_from_School,Sheet1_Clean_Result
+1,NVS High School,13,40000,B,STATE,"Tuesday, August 6, 2024",Goutam Panda,SET 1,31,31,34,38,32,0,0,0,0,166,158,134
+2,Green Garden School,8.5,70000,A,CBSE,"Monday, August 12, 2024",Fayaz M,SET 2,47,43,36,42,58,0,0,0,0,226,226,170
+3,GNANAMBIKA VIDYA MANDIR,8.5,41000,B,CBSE,"Saturday, August 17, 2024",Balaveeraswami,SET 2,35,33,26,29,17,0,0,0,0,140,135,101
+4,HAL EAST PRIMARY & HIGH SCHOOL,7,40000,B,STATE,"Monday, August 19, 2024",Goutam Panda,SET 2,109,95,95,110,94,0,0,0,0,503,441,406
+5,Endeavour's International School,16,80000,A,ICSE,"Tuesday, August 20, 2024",Fayaz M,SET 2,98,94,113,113,113,0,40,0,0,571,470,353
+6,Amrutha Bharathi Vidya Kendra,7,55000,B,STATE,"Wednesday, August 21, 2024",Fayaz M,SET 3,55,77,75,47,32,0,0,0,0,286,200,150
+7,Green Eden Public,13,62500,B,CBSE,"Thursday, August 22, 2024", Veeresh R,SET 3,44,35,29,21,18,0,5,0,0,152,110,94
+8,st Antony school,11,64000,B,ICSE,"Friday, August 23, 2024", Veeresh R,SET 3,0,72,49,75,65,0,0,0,0,261,178,151
+9,Christ International School,15,85000,A,CBSE,"Friday, August 23, 2024", Veeresh R,SET 3,19,19,12,21,32,0,15,0,6,124,112,95
+10,Christ International School,15,60000,B,STATE,"Friday, August 23, 2024", Veeresh R,SET 3,47,63,70,72,60,0,0,0,0,312,241,205
+11,DEETYA VIDYALAY PUBLIC SCHOOL,5,38000,B,STATE,"Saturday, August 24, 2024",Balaveeraswami,SET 3,35,37,41,44,40,0,0,0,0,197,152,114
+12,RJS PU COLLEGE,3.5,40000,B,STATE,"Saturday, August 24, 2024", Veeresh R,SET 3,0,0,0,0,0,20,5,5,12,42,36,31
+13,Rajdhani Mahesh PU,7.3,40000,B,STATE,"Tuesday, August 27, 2024", Veeresh R,SET 3,0,0,0,0,0,0,42,0,45,87,62,53
+14,Christ Public School,6.3,70000,B,CBSE,"Tuesday, August 27, 2024", Veeresh R,SET 3,30,20,19,19,19,0,0,0,0,107,78,66
+15,KSVK International School,6.5,85000,B,CBSE,"Wednesday, August 28, 2024",Fayaz M,SET 3,81,63,63,82,71,0,0,0,0,360,300,225
+16,Mother Dolphin English High School,9,41000,B,STATE,"Wednesday, August 28, 2024",Goutam Panda,SET 3,26,22,26,31,33,0,0,0,0,138,97,82
+17,INDIAN PUBLIC SCHOOL,8,55000,B,CBSE,"Wednesday, August 28, 2024",Goutam Panda,SET 3,23,14,26,18,6,0,0,0,0,87,83,62
+18,NAVAPRAJNA PUBLIC SCHOOL,1,55000,B,CBSE,"Saturday, August 31, 2024",Goutam Panda,SET 3,79,92,96,90,89,0,0,0,0,446,400,368
+19,SVES English school,7,46000,B,STATE,"Saturday, August 31, 2024", Veeresh R,SET 3,30,24,20,26,23,0,0,0,0,123,103,88
+20,Cambridge Innovative School,16,70000,A,ICSE,"Tuesday, September 3, 2024",Fayaz M,SET 3,35,42,30,55,45,0,0,0,0,207,145,116
+21,Seventh Day Adventist High school,8,45000,B,STATE,"Friday, September 6, 2024", Veeresh R,SET 4,22,20,25,20,24,0,0,0,0,111,71,60
+22,champions international school,14,46000,B,CBSE,"Monday, September 9, 2024",Balaveeraswami,SET 4,25,25,23,29,0,0,0,0,0,102,78,62
+23,Fatima English School,16,55000,B,STATE,"Tuesday, September 10, 2024",Fayaz M,SET 4,0,24,40,44,53,0,0,0,0,161,111,89
+24,NEW AGE NURSERY PRIMARY & HIGH SCHOOL,4,45000,B,STATE,"Friday, September 13, 2024",Goutam Panda,SET 5,86,100,86,85,90,0,0,0,0,447,410,377
+25,Bright High School,16,45000,B,STATE,"Friday, September 13, 2024",Fayaz M,SET 5,34,29,38,38,26,0,0,0,0,165,125,100
+26,BLOOMERS SCHOOL,7,40000,B,CBSE,"Saturday, September 14, 2024",Goutam Panda,SET 5,20,18,27,18,11,0,0,0,0,94,85,64
+27,Little Blossom School,11,45000,B,STATE,"Saturday, September 14, 2024", Veeresh R,SET 5,0,69,84,56,76,0,0,0,0,285,255,191
+28,NEW OXFORD ENGLISH SCHOOL,7,40000,B,STATE,"Monday, September 16, 2024",Goutam Panda,SET 5,0,0,78,80,78,0,0,0,0,236,221,203
+29,Sir M Vishveswaraya high school,6,52500,B,STATE,"Tuesday, September 17, 2024", Veeresh R,SET 5,0,0,160,149,154,0,0,0,0,463,380,285
+30,"Air Force School, ASTE",8,45000,A,CBSE,"Wednesday, September 18, 2024",Goutam Panda,SET 5,90,93,113,104,95,24,21,23,13,576,550,506
+31,The Polarise International School,11,80000,A,CBSE,"Wednesday, September 18, 2024", Veeresh R,SET 5,0,58,50,54,32,0,0,0,0,194,158,119
+32,SJRS High School,16,48000,B,STATE,"Wednesday, September 18, 2024",Fayaz M,SET 5,0,24,106,149,136,0,0,0,0,415,250,200
+33,SM English School,8,48000,B,STATE,"Thursday, September 19, 2024", Veeresh R,SET 5,0,36,40,36,40,0,0,0,0,152,131,98
+35,M V K International school,16,55000,B,STATE,"Thursday, September 26, 2024",Fayaz M,SET 6,0,48,63,72,66,0,0,0,0,249,180,144
+36,Sri Krishna school,8,40000,B,STATE,"Thursday, September 26, 2024", Veeresh R,SET 6,0,56,60,88,78,0,0,0,0,282,207,155
+37,Peniel English School,8,42000,B,STATE,"Friday, September 27, 2024",Goutam Panda,SET 6,16,19,14,18,26,0,0,0,0,93,85,64
+38,St Anne PU College,11,50000,B,STATE,"Saturday, September 28, 2024", Veeresh R,SET 6,0,0,0,0,0,25,25,25,25,100,78,59
+39,sapthagiri vidya mandir,11,52000,B,STATE,"Saturday, September 28, 2024", Veeresh R,SET 6,0,36,41,41,38,0,0,0,0,156,147,118
+40,Hoddi Pre University College,8,47000,B,STATE,"Saturday, September 28, 2024",Goutam Panda,SET 6,0,0,0,0,0,12,14,21,26,73,65,49
+41,RBAMS,12,45000,B,STATE,"Monday, September 30, 2024", Veeresh R,SET 6,0,0,0,0,0,20,12,25,25,82,75,60
+42,New Bloom kids,12,42000,B,STATE,"Monday, September 30, 2024", Veeresh R,SET 6,0,22,21,18,18,0,0,0,0,79,51,41
+43,Noble English School,16,60000,B,CBSE,"Tuesday, October 1, 2024",Fayaz M,SET 6,0,42,51,34,27,0,0,0,0,154,107,96
+44,Dharmasagara Pre University College,12,50000,B,STATE,"Tuesday, October 1, 2024",Fayaz M,SET 6,0,0,0,0,0,86,98,91,93,368,250,225
+45,Guntur Oxford Elite Techno School,11,70000,B,CBSE,"Tuesday, October 1, 2024",Fayaz M,SET 6,0,54,49,62,71,0,0,0,0,236,171,154
+46,WGS,5,85000,A,CBSE,"Thursday, October 3, 2024",Goutam Panda,SET 7,0,0,0,0,190,0,0,0,0,190,185,157
+47,Holy Public School,9,56000,B,STATE,"Saturday, October 5, 2024", Veeresh R,SET 7,0,117,193,122,140,0,0,0,0,572,350,280
+48,CARMEL  TERRESA SCHOOL,4,85000,A,CBSE,"Saturday, October 26, 2024", Veeresh R,SET 6,0,65,62,25,15,0,0,0,0,167,127,102
+49,KMP church School,6,45000,B,STATE,"Wednesday, November 6, 2024",Goutam Panda,SET 1,34,27,28,35,39,0,0,0,0,163,115,98
+50,St Philomena school,14,65000,A,CBSE,"Friday, December 6, 2024", Veeresh R,SET 4,84,66,77,96,128,0,0,0,0,451,380,304
+51,SVB PATEL HIGH SCHOOL,14,45000,B,STATE,"Saturday, December 7, 2024",Goutam Panda,SET 4,0,0,110,100,86,0,0,0,0,296,235,216
+52,A.Ra Vidyanikethana  School,13,44000,B,STATE,"Saturday, December 14, 2024",Goutam Panda,SET 5,30,28,30,10,12,0,0,0,0,110,96,82
+53,INDIAN PUBLIC SCHOOL,8,48000,A,STATE,"Tuesday, December 17, 2024",Goutam Panda,SET 5,30,32,28,32,29,0,0,0,0,151,147,125
+54,Gnanambika school,11,49500,B,STATE,"Wednesday, November 20, 2024", Veeresh R,SET 2,31,28,24,26,27,0,0,0,0,136,96,77
+55,Trinity English High School,3,44000,B,STATE,"Friday, November 22, 2024",Goutam Panda,SET 3,47,35,30,32,30,0,0,0,0,174,150,128
+56,Christ Eden Tecno school,3,42000,B,STATE,"Friday, November 29, 2024", Veeresh R,SET 4,24,28,21,22,0,0,0,0,0,95,60,48
+57,St Jerome PU college,10,65000,B,STATE,"Saturday, November 30, 2024", Veeresh R,SET 4,0,0,0,0,0,25,21,29,51,126,96,77
+
