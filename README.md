@@ -7,7 +7,7 @@ Dataset contains details of **56 schools** with fees, distance, board, ME evalua
 ## Files
 - **schema.sql** → SQL schema for table creation
 - **analysis.sql** → Core analysis queries
-- **data_import_instructions.md** → Guide to import CSV into MySQL
+- **load_data.sql** → Guide to import CSV into MySQL
 - **PW_NSAT_2024_whitefield.csv** → Original dataset
 
 ## Key Insights
@@ -25,7 +25,7 @@ Dataset contains details of **56 schools** with fees, distance, board, ME evalua
 
 ## Usage
 1. Run `schema.sql` in MySQL to create the database and table.
-2. Import CSV `load_data.sql`.
+2. Run `load_data.sql` to import CSV data.
 3. Run queries from `analysis.sql` to generate insights.
 
 ---
