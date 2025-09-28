@@ -10,6 +10,7 @@ Dataset contains details of **56 schools** with fees, distance, board, ME evalua
 - **analysis.sql** → Core analysis queries
 - **PW_NSAT_2024_whitefield.csv** → Original dataset
 - **README.md** → Project overview, instructions, and usage guide.
+- **NSAT 2024 Whitefield.pdf** → Power BI report with key insights and visualizations
 
 ## Key Insights
 - Conversion percentage per school
