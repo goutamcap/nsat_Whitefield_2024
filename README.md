@@ -42,4 +42,6 @@ This report complements the SQL analysis by providing a **visual storytelling la
 
 ---
 
-👨‍💻 Author: Goutam Panda
+ ## 👨‍💻 Author
+**Goutam Panda**  
+[GitHub Profile](https://github.com/goutamcap)  
